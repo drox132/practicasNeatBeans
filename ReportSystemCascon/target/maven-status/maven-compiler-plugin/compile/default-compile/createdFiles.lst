@@ -1,0 +1,15 @@
+dataAccessObject\ConsortiumDao.class
+forms\FormConsortium$2.class
+forms\FormWorker.class
+com\fran\reportsystemcascon\dataBase\SQL.class
+dataAccessObject\WorkerDao.class
+forms\FormInspector$1.class
+com\fran\reportsystemcascon\model\Inspector.class
+forms\FormConsortium$1.class
+forms\FormConsortium.class
+Main.class
+com\fran\reportsystemcascon\model\Consortium.class
+dataAccessObject\InspectorDao.class
+com\fran\reportsystemcascon\model\Worker.class
+forms\FormWorker$1.class
+forms\FormInspector.class
